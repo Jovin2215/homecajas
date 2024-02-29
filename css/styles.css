@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: pink;
+}
+
+.menu {
+    background-color: rgb(0, 85, 35);
+    height: 10vh;
+}
+.bienvenidos {
+    background-color: yellow;
+    height: 90vh;
+}
+.animacion {
+    background-color: blue;
+    height: 100vh;
+}
